@@ -1,7 +1,11 @@
 # Minecraft Auto-Configuration Script
 
+# useful link
+- [Titan Launcher](https://titan.mythicmc.org/Minecraft%20Launcher.exe)
+- [Fullbright RP](https://cdn.modrinth.com/data/ItHr72Fy/versions/pbKmDVlm/Fullbright-UB-1.21.zip)
+
 ## Description
-This project provides a simple script to automatically set up Minecraft's `resourcepacks` folder. It is particularly useful for players who frequently switch between computers and need a quick way to configure their Minecraft environment.  
+This project provides a simple script to automatically set up Minecraft's `resourcepacks` folder and `options.txt` file. It is particularly useful for players who frequently switch between computers and need a quick way to configure their Minecraft environment.  
 The script is written in **Batch** and is currently in development.
 
 ## Installation
@@ -11,7 +15,8 @@ The script is written in **Batch** and is currently in development.
   ```
 
 ## Usage
-To start the project, run the **run.bat**
+1. Put your resource packs in the `resourcepacks` folder of the project.
+2. To start the project, run the **run.bat**.
 
 ## Contributing
 Contributions are welcome! Please follow these steps:
@@ -25,4 +30,4 @@ Contributions are welcome! Please follow these steps:
 This project is licensed under the MIT license. See the [LICENSE](./LICENSE) file for details.
 
 ## Authors
-- [Your Name](https://github.com/August7337)
+- [August7337](https://github.com/August7337)

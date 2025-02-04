@@ -9,5 +9,6 @@ if not exist "%RPFolder%" (
 )
 
 xcopy "resourcepacks" "%RPFolder%" /e /i
+xcopy "config" "%RPFolder%/../" /e /i
 
 pause
