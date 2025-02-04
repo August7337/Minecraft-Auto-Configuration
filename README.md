@@ -1,6 +1,6 @@
 # Minecraft Auto-Configuration Script
 
-# useful link
+# Useful links
 - [Titan Launcher](https://titan.mythicmc.org/Minecraft%20Launcher.exe)
 - [Fullbright RP](https://cdn.modrinth.com/data/ItHr72Fy/versions/pbKmDVlm/Fullbright-UB-1.21.zip)
 
